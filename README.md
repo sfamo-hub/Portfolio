@@ -3,7 +3,7 @@
 
 I have taken some sample data from a Superstore which has 4 years of sales data (between 2014 and 2017).
 In this project, I built a Commercial dashboard in Tableau that Stakeholders can self-serve with.
-In addition to using this dashboard, I used SQL to retrieve relevant data and deliver insight on two business problems, providing recommendations and highlighting further areas to look in to.
+In addition to building this dashboard, I used SQL to retrieve relevant data and deliver insight on two business problems, providing recommendations and highlighting further areas to look in to.
 
 <br>
 
