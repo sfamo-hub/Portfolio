@@ -7,7 +7,7 @@ The dashboard is comprised of 4 key tabs:
 
 **Yearly Performance**; shows yearly sales growth and how topline metrics have moved over the years.
 <br>
-**Performance**; a dynamic sheet that holds the main commercial KPIs where use can select required dates.
+**Performance**; a dynamic sheet that holds the main commercial KPIs where specific dates can be selected.
 <br>
 **Location**; a geographic view of US State's performance with their respective metrics that will be displayed if hovered over.
 <br>
