@@ -38,9 +38,9 @@ The dashboard is comprised of 4 key tabs:
 
 **Hindsight**
 <br>
-When working with this limited dataset, it is important to 
+There are limitations when working with this limited dataset,
 
-- If we had access to more data, such as Sessions, Customer or Marketing tables we would be able to track and analyse other important KPIs to better understand customer behaviour. We would be able to connect multiple data points to tell a more detailed story.
+- If we had access to more data, such as Sessions, Customer or Marketing tables we would be able to track and analyse other important KPIs to better understand customer behaviour. We would be able to connect multiple data points together to tell a more detailed story.
 - In usual instances, for us to be able to make sense of current performance, we would have a form of Budget/Forecast to compare current performance to which would give us context.
 However, in this case study budget numbers were not provided, so comparisons are being made to historic performance alone.
 - In this case study, the only Country/Territory included was United States which limits the global views this dashboard could be used for.
